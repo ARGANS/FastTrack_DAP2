@@ -1,0 +1,11 @@
+Title: Net primary production
+Tags:
+  - shoreline
+  - sea
+  - costal erosion
+DataSource:
+  Spaceborne:
+    Satellite:
+      - Aqua
+    Sensor:
+      - MODIS
